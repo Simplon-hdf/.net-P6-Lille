@@ -1,3 +1,3 @@
 # .net-P6-Lille
 
-Hello World !
+Hello Simplon ! 
